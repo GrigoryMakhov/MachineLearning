@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\models\\modellabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\models\\modellabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\mlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\mlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u043F\u0440\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\artificial_intelligence\\artificial_intelligence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ABCD77-25B8-49C4-A429-3E439901D76C}|Artificial_intelligence\\Artificial_intelligence.csproj|solutionrelative:artificial_intelligence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MLModel.mbconfig",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\MLModel.mbconfig",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\MLModel.mbconfig",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\MLModel.mbconfig",
+              "RelativeToolTip": "Artificial_intelligence\\MLModel.mbconfig",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-02-20T19:48:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Program.cs",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Program.cs",
+              "RelativeToolTip": "Artificial_intelligence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:48:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Artificial_intelligence\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T19:44:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Artificial_intelligence\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T19:42:15.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Artificial_intelligence\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T19:40:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Artificial_intelligence\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T19:39:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelLabel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Models\\ModelLabel.cs",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Models\\ModelLabel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Models\\ModelLabel.cs",
+              "RelativeToolTip": "Artificial_intelligence\\Models\\ModelLabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:32:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Artificial_intelligence\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u0430\u0448\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F\\\u041F\u0420\u21161\\\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u0440\\Artificial_intelligence\\Artificial_intelligence\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Artificial_intelligence\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:30:30.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

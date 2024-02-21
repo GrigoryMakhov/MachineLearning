@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Artificial_intelligence.props" />
+</Project>

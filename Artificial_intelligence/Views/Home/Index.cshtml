@@ -1,0 +1,32 @@
+﻿@model List<ModelLabel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h5>Распознавание изображений дефектов на металлической поверхности, Вариант 8</h5>
+   @*  <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+</div>
+
+
+<form asp-action="Index" asp-controller="Home" method="post" enctype="multipart/form-data">
+    <input type="file" class="form-control" name="file" /><br>
+    <input type="submit" class="btn btn-primary"value="Загрузить" />
+</form>
+
+@if (Model != null)
+{
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>Score</td>
+        </tr>
+        @foreach (var label in Model)
+        {
+            <tr>
+                <td>@label.Label</td>
+                <td>@label.Score</td>
+            </tr>
+        }
+    </table>
+}
